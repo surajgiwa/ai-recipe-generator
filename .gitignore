@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
+=======
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
+>>>>>>> a129cb5 (“updated)
